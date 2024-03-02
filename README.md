@@ -1,2 +1,1 @@
-# WEB
-pagina web de william
+git remote add origin 
